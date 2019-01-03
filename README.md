@@ -14,3 +14,5 @@
 （6）将上一步的向量数据集分割为训练集和测试集
 （7）训练logistic回归分类器
 （8）在测试集上测试model的准确率
+
+注：代码文件reviewClassification.ipynb使用jupyter打开
